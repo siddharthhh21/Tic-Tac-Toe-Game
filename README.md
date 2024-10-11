@@ -11,11 +11,15 @@ Winner Detection: The game checks for a winner after each move by evaluating pos
 Tie Detection: If all cells are filled and there is no winner, the game declares a tie.
 Game Reset: After each game (win or tie), the game automatically resets, allowing players to start a new round.
 Lightweight and Fast: The game runs entirely in the browser with minimal code, providing a smooth user experience without any backend server requirements.
+
+
 Technical Stack:
 
 HTML5: For structuring the game interface.
 CSS3: For designing the game layout, including the grid display and styling for the game board and cells.
 JavaScript: To handle the game logic, including player interactions, winner checking, turn management, and game resets.
+
+
 Potential Enhancements:
 
 Add an option to play against a computer AI.
